@@ -1,7 +1,8 @@
 # Browser Sync Example
 
-Cool browser sync example with external. 
+Cool browser sync example exposing external localhost
 
+![](http://wes.io/fTxG/content)
 
 To run:
 
@@ -31,6 +32,8 @@ You can also try get a domain via the tunnel. This would be wesiscooleh.localtun
 
 `browser-sync start --server --files '*.css, *.html' --tunnel wesiscooleh`
 
-## cool 
+## faq
 
-yah
+**Q:** YOU SHOULD USE NGROK U IDIET
+
+**A:** cool
