@@ -1,0 +1,14 @@
+{
+  "name": "broswer-sync-remote-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "bs": "browser-sync start --server --files '*.css, *.html' --tunnel"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.11.1"
+  }
+}
